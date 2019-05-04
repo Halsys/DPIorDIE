@@ -18,7 +18,7 @@
  * License:						GPL-3.0+
  * License URI:				http://www.gnu.org/licenses/gpl.txt
  * Domain Path:				/languages
- * GitHub Plugin URI:
+ * GitHub Plugin URI:	https://github.com/Halsys/DPIorDIE
  */
 
 // If this file is called directly, abort.
