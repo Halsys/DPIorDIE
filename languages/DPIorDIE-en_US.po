@@ -1,0 +1,118 @@
+# Copyright (C) 2014 TODO
+# This file is distributed under the same license as the DPIorDie package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-04 10:42-0600\n"
+"PO-Revision-Date: 2019-05-04 10:44-0600\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <translations@example.com >\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: public\n"
+
+#: admin/class-dpi-or-die-admin.php:360
+msgid "Bad or expired token, reauthorize with Dropbox now."
+msgstr "Bad or expired token, reauthorize with Dropbox now."
+
+#: admin/class-dpi-or-die-admin.php:363
+msgid "User is not allowed access."
+msgstr "User is not allowed access."
+
+#: admin/class-dpi-or-die-admin.php:366
+msgid "Endpoint-specific error."
+msgstr "Endpoint-specific error."
+
+#: admin/class-dpi-or-die-admin.php:369
+msgid "Too many requests... Please wait."
+msgstr "Too many requests... Please wait."
+
+#: admin/class-dpi-or-die-admin.php:385
+msgid "Response did not have token or the account id."
+msgstr "Response did not have token or the account id."
+
+#: admin/class-dpi-or-die-admin.php:438
+msgid "No Dropbox API token in database."
+msgstr "No Dropbox API token in database."
+
+#: admin/class-dpi-or-die-admin.php:599
+msgid "DPIorDie Settings"
+msgstr "DPIorDie Settings"
+
+#: admin/class-dpi-or-die-admin.php:600
+msgid "DPIorDie"
+msgstr "DPIorDie"
+
+#: admin/class-dpi-or-die-admin.php:664
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-dpi-or-die-admin.php:678
+msgid ""
+"Here you can change the filters and settings for image uploaders. You may "
+"also change the local upload size limit for all users on the site here. "
+"However, if the internal server limit is lower than your desired amount, the "
+"server in question will default to it's own internal limits instead."
+msgstr ""
+"Here you can change the filters and settings for image uploaders. You may "
+"also change the local upload size limit for all users on the site here. "
+"However, if the internal server limit is lower than your desired amount, the "
+"server in question will default to it's own internal limits instead."
+
+#: admin/class-dpi-or-die-admin.php:679
+msgid ""
+"<strong>Note:</strong> 1,000,000 bytes or 1,000 kilobytes are equal to a "
+"singlular megabyte. Decimals are allowed and will be converted occordingly."
+msgstr ""
+"<strong>Note:</strong> 1,000,000 bytes or 1,000 kilobytes are equal to a "
+"singlular megabyte. Decimals are allowed and will be converted occordingly."
+
+#: admin/class-dpi-or-die-admin.php:703
+msgid ""
+"Here you can set up the Dropbox integration. Files that make it past the DPI "
+"checks will be uploaded to the destination of your choosing on Dropbox. You "
+"just need to authorize the use. Click the link, authorize Dropbox, and copy "
+"the code it gives you once done. Once you have a token, you don't need to do "
+"anything else. The link <b>should</b> open in a new tab for you."
+msgstr ""
+"Here you can set up the Dropbox integration. Files that make it past the DPI "
+"checks will be uploaded to the destination of your choosing on Dropbox. You "
+"just need to authorize the use. Click the link, authorize Dropbox, and copy "
+"the code it gives you once done. Once you have a token, you don't need to do "
+"anything else. The link <b>should</b> open in a new tab for you."
+
+#: admin/class-dpi-or-die-admin.php:704
+msgid ""
+"We cannot at this time use Dropbox's \"token authentication\" flow, and have "
+"to use the \"code authentication\" flow. Where we get the token we need from "
+"the code you retreived from Dropbox. We cannot hardcode the redirect URL "
+"into Dropbox's settings because the redirect URL is different for each blog. "
+"We would have to make a website that manages your specific settings for your "
+"blog or a website that passes the token back to your blog with a redirect, "
+"and that doesn't make any sense, at this time."
+msgstr ""
+"We cannot at this time use Dropbox's \"token authentication\" flow, and have "
+"to use the \"code authentication\" flow. Where we get the token we need from "
+"the code you retreived from Dropbox. We cannot hardcode the redirect URL "
+"into Dropbox's settings because the redirect URL is different for each blog. "
+"We would have to make a website that manages your specific settings for your "
+"blog or a website that passes the token back to your blog with a redirect, "
+"and that doesn't make any sense, at this time."
+
+#: admin/class-dpi-or-die-admin.php:705
+msgid "Authorize Dropbox"
+msgstr "Authorize Dropbox"
+
+#: public/class-dpi-or-die.php:86
+msgid "Uploader"
+msgstr "Uploader"

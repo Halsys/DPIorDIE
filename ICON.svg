@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 width="1024"
+	 height="1024"
+	 viewBox="0 0 270.93333 270.93333"
+	 version="1.1"
+	 id="svg8"
+	 inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+	 sodipodi:docname="ICON.svg">
+	<defs
+		 id="defs2" />
+	<sodipodi:namedview
+		 id="base"
+		 pagecolor="#ffffff"
+		 bordercolor="#666666"
+		 borderopacity="1.0"
+		 inkscape:pageopacity="0.0"
+		 inkscape:pageshadow="2"
+		 inkscape:zoom="0.7"
+		 inkscape:cx="452.78076"
+		 inkscape:cy="465.31795"
+		 inkscape:document-units="mm"
+		 inkscape:current-layer="layer1"
+		 showgrid="false"
+		 units="px"
+		 inkscape:pagecheckerboard="true"
+		 inkscape:window-width="1920"
+		 inkscape:window-height="1019"
+		 inkscape:window-x="0"
+		 inkscape:window-y="0"
+		 inkscape:window-maximized="1" />
+	<metadata
+		 id="metadata5">
+		<rdf:RDF>
+			<cc:Work
+				 rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type
+					 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title></dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g
+		 inkscape:label="Layer 1"
+		 inkscape:groupmode="layer"
+		 id="layer1"
+		 transform="translate(0,-26.066725)">
+		<flowRoot
+			 xml:space="preserve"
+			 id="flowRoot3729"
+			 style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+				 id="flowRegion3731"
+				 style="font-size:192px;"><rect
+					 id="rect3733"
+					 width="997.14288"
+					 height="994.28571"
+					 x="14.285714"
+					 y="18.285713"
+					 style="font-size:192px;" /></flowRegion><flowPara
+				 id="flowPara3735"></flowPara></flowRoot>    <flowRoot
+			 xml:space="preserve"
+			 id="flowRoot3737"
+			 style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+				 id="flowRegion3739"
+				 style="font-size:192px;"><rect
+					 id="rect3741"
+					 width="1005.7143"
+					 height="1001.4286"
+					 x="10"
+					 y="11.142857"
+					 style="font-size:192px;" /></flowRegion><flowPara
+				 id="flowPara3743"></flowPara></flowRoot>    <text
+			 xml:space="preserve"
+			 style="font-style:normal;font-weight:normal;font-size:14.83043289px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3707608"
+			 x="110.59914"
+			 y="140.13132"
+			 id="text3747"
+			 transform="scale(1.1955657,0.83642411)"><tspan
+				 sodipodi:role="line"
+				 id="tspan3745"
+				 x="110.59914"
+				 y="140.13132"
+				 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.17008972px;line-height:0.73000002;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.3707608">DPI</tspan><tspan
+				 sodipodi:role="line"
+				 x="110.59913"
+				 y="246.83548"
+				 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.17008972px;line-height:0.73000002;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.3707608"
+				 id="tspan3749">OR</tspan><tspan
+				 sodipodi:role="line"
+				 x="110.59914"
+				 y="353.53964"
+				 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.17008972px;line-height:0.73000002;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.3707608"
+				 id="tspan3751">DIE</tspan></text>
+	</g>
+</svg>
