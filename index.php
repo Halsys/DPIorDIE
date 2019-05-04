@@ -11,7 +11,7 @@
  * Plugin Name:				DPIorDie
  * Plugin URI:				http://wordpress.org/plugins
  * Description:				Saves and discards uplouds based on DPI.
- * Version:						0.0.1
+ * Version:						1.0.0
  * Author:						Cory Null(Noll) Crimmins - Golden
  * Author URI:				http://mountainvalley.today/
  * Text Domain:				dpi-or-die
